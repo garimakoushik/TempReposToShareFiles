@@ -1,0 +1,1 @@
+java -jar agent.jar -jnlpUrl http://http://35.222.174.191:8080/computer/Linux_Node/slave-agent.jnlp -secret ee88c0c8a7ff5496bc6f3d2bef72d279d058df0b5696e3dd6ce7c1051cafd8c3 -workDir "/home/garimagt29/JenkinsProjects/jenkinsNode"
